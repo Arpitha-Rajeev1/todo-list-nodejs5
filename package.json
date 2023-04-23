@@ -1,0 +1,19 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "This is a todo list to add your tasks with deadline and delete them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Arpitha Rajeev",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4"
+  }
+}
